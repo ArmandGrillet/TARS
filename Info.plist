@@ -30,6 +30,10 @@
 	<string>BL4CLL95SL</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
+	<key>URL</key>
+    <string>https://github.com/ArmandGrillet/TARS/raw/master/TARS.safariextz</string>
+    <key>Update From Gallery</key>
+	<true/>
 	<key>Permissions</key>
 	<dict>
 		<key>Website Access</key>
